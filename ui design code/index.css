@@ -1,0 +1,262 @@
+.bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: radial-gradient(
+      50% 50%at 50% 50%,
+      rgba(47, 41, 41, 0.71),
+      rgba(32, 27, 27, 0.77)
+    );
+    width: 1600px;
+    height: 960px;
+  }
+  .nike-shoe-1-icon {
+    position: absolute;
+    top: 70px;
+    left: 669px;
+    width: 931px;
+    height: 799.28px;
+    object-fit: cover;
+  }
+  .shadow-icon,
+  .subject-child {
+    position: absolute;
+    top: 690px;
+    left: 930px;
+    width: 624px;
+    height: 104px;
+  }
+  .subject-child {
+    top: 294.5px;
+    left: 1424.5px;
+    width: 190px;
+    height: 177px;
+  }
+  .subject-inner,
+  .subject-item {
+    position: absolute;
+    border-radius: 50%;
+  }
+  .subject-item {
+    top: 869px;
+    left: 1840px;
+    background: radial-gradient(50% 50%at 50% 50%, #131111, rgba(81, 70, 70, 0));
+    backdrop-filter: blur(4px);
+    width: 128px;
+    height: 145px;
+  }
+  .subject-inner {
+    top: 1667px;
+    left: 812px;
+    background-color: var(--color-gainsboro);
+    width: 100px;
+    height: 100px;
+  }
+  .ellipse-icon {
+    position: absolute;
+    top: 566.5px;
+    left: 1050.5px;
+    width: 193px;
+    height: 177px;
+  }
+  .ellipse-div,
+  .subject-child1,
+  .subject-child2 {
+    position: absolute;
+    top: 183px;
+    left: 979px;
+    width: 282px;
+    height: 297px;
+    display: none;
+  }
+  .ellipse-div,
+  .subject-child2 {
+    top: 88px;
+    left: 818px;
+    width: 302px;
+    height: 285px;
+  }
+  .ellipse-div {
+    top: 228px;
+    left: 1039px;
+    border-radius: 50%;
+    background-color: var(--color-gainsboro);
+    width: 228px;
+    height: 209px;
+  }
+  .air-max,
+  .nike-air-max {
+    position: absolute;
+    left: 206px;
+    display: inline-block;
+  }
+  .air-max {
+    top: 207px;
+    font-size: 156.99px;
+    width: 795.31px;
+    height: 198.46px;
+  }
+  .nike-air-max {
+    top: 366px;
+    font-size: var(--font-size-21xl);
+    letter-spacing: 0.15em;
+    font-weight: 500;
+    width: 421px;
+    height: 50px;
+  }
+  .rectangle-icon,
+  .subject-child3 {
+    position: absolute;
+    top: 844px;
+    left: 255px;
+    width: 371px;
+    height: 94px;
+    display: none;
+  }
+  .subject-child3 {
+    top: 1205.57px;
+    left: 280.92px;
+    width: 276.82px;
+    height: 78.1px;
+  }
+  .subject-child4 {
+    position: absolute;
+    top: 770px;
+    left: 160px;
+    border-radius: 50%;
+    background-color: #f1e6e6;
+    width: 198px;
+    height: 67px;
+  }
+  .add-to-car {
+    letter-spacing: 0.15em;
+  }
+  .add-to-cart-container {
+    position: absolute;
+    top: calc(50% + 310px);
+    left: calc(50% - 610px);
+    font-size: 17px;
+    display: inline-block;
+    font-weight: 700;
+    color: #0d0b0b;
+    width: 209px;
+    height: 32px;
+    opacity: 0.6;
+    mix-blend-mode: darken;
+  }
+  .i,
+  .nothing-as-fly {
+    position: absolute;
+    letter-spacing: 0.15em;
+    font-weight: 500;
+  }
+  .i {
+    top: 518px;
+    left: 190px;
+    font-size: var(--font-size-21xl);
+    display: inline-block;
+    width: 107px;
+    height: 50px;
+  }
+  .nothing-as-fly {
+    top: 912px;
+    left: 1250.19px;
+    font-size: 6.76px;
+    display: none;
+    width: 221.81px;
+    height: 47px;
+  }
+  .rectangle-div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-gainsboro);
+    width: 124px;
+    height: 960px;
+  }
+  .home,
+  .nothing-as-fly1 {
+    position: absolute;
+    display: inline-block;
+  }
+  .nothing-as-fly1 {
+    top: 618px;
+    left: 170px;
+    letter-spacing: 0.15em;
+    font-weight: 500;
+    color: #a79c9c;
+    width: 530px;
+    height: 76px;
+  }
+  .home {
+    left: 553px;
+    width: 149px;
+  }
+  .about,
+  .collection,
+  .home {
+    top: 44px;
+    letter-spacing: 0.15em;
+    font-weight: 700;
+    height: 43px;
+  }
+  .collection {
+    position: absolute;
+    left: 679px;
+    display: inline-block;
+    width: 221px;
+  }
+  .about {
+    left: 877px;
+    width: 127px;
+  }
+  .about,
+  .contact,
+  .s-t-y {
+    position: absolute;
+    display: inline-block;
+  }
+  .contact {
+    top: 44px;
+    left: 981px;
+    letter-spacing: 0.15em;
+    font-weight: 700;
+    width: 179px;
+    height: 43px;
+  }
+  .s-t-y {
+    top: 145px;
+    left: 73px;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #363131;
+    width: 946px;
+    height: 46px;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+  }
+  .vector-icon {
+    position: absolute;
+    height: 3.83%;
+    width: 6%;
+    top: 4.17%;
+    right: 93.13%;
+    bottom: 92%;
+    left: 0.88%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .subject {
+    position: relative;
+    background-color: #171414;
+    width: 100%;
+    height: 960px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-mini);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+  }
+  
